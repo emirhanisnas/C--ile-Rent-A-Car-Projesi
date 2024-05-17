@@ -1,0 +1,26 @@
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\rent a car proje.exe.config
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\rent a car proje.exe
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\rent a car proje.pdb
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent a car proje.csproj.AssemblyReference.cache
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.Panel.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.giris.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.Properties.Resources.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent a car proje.csproj.GenerateResource.cache
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent a car proje.csproj.CoreCompileInputs.cache
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent a car proje.exe
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent a car proje.pdb
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\EntityFramework.dll
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\System.Data.SQLite.dll
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\EntityFramework.xml
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\System.Data.SQLite.xml
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.frmAnaSayfa.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.frmMüsşteriEkle.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.frmMüşteriListele.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.frmAracKayıt.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent_a_car_proje.frmAraçListele.resources
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\bin\Debug\db\Araç_Kiralama.db
+C:\Users\TAG3AE\OneDrive\Masaüstü\Nesne prog2\internetprogram2\rent a car proje\rent a car proje\obj\Debug\rent a c.7F4B6516.Up2Date
